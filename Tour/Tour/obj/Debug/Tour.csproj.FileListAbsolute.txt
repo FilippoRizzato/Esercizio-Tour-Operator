@@ -1,0 +1,8 @@
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\bin\Debug\Tour.exe.config
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\bin\Debug\Tour.exe
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\bin\Debug\Tour.pdb
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\obj\Debug\Tour.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\obj\Debug\Tour.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\obj\Debug\Tour.exe
+C:\Users\Pc\OneDrive\Desktop\Tour\Tour\obj\Debug\Tour.pdb
